@@ -18,5 +18,3 @@ struct Forecast: Decodable {
 struct Main: Decodable {
     let temp: Double
 }
-
-
